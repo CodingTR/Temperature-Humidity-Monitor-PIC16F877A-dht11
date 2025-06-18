@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/f7ba710f-e3fa-4b4f-aff0-925818ab6592)
+![Project-Simulation](https://github.com/user-attachments/assets/2a1a1a5a-eff8-4324-91a4-9758543181cc)
 Temperature and Humidity measurement is often useful in many applications like [Home Automation](https://circuitdigest.com/home-automation-projects), Environment Monitoring, [Weather station](https://circuitdigest.com/microcontroller-projects/esp12-nodemcu-based-iot-weather-station), etc. The most popularly used Temperature sensor next to [LM35](https://circuitdigest.com/tags/lm35) is the DHT11. In this repo, we will learn how to interface this **DHT11 with PIC16F877A** which is an 8-bit PIC Microcontroller. We will use this microcontroller to **read the values of Temperature and Humidity using DHT11** and display it on an LCD display.
 ## Features
+
 - Reads temperature and humidity data from DHT11 sensor 
 - Displays data on a 16x2 LCD module
 - Includes complete Proteus simulation
